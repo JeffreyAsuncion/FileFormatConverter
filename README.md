@@ -7,3 +7,25 @@ Python | SQL
 * Utilized modularized Python applications for efficient deployment and improved maintainability of the preprocessing layer.
 * Ensured scalability and optimized performance to handle large datasets effectively.
 * Collaborated with the team to maintain data integrity and ensure smooth integration within the broader data engineering ecosystem.
+
+
+# Getting Started
+
+## Prerequisites
+pass
+
+## Installation
+
+Clone Repo
+
+python3 -m venv ffc-venv
+source ffc-venv/bin/activate
+pip -r install requirements.txt
+
+## Usage
+
+## License
+Distributed under the MIT License. See 'LICENSE.txt' for more information.
+
+## Contact
+Jeffrey Asuncion - jeffrey.l.asuncion@gmail.com
